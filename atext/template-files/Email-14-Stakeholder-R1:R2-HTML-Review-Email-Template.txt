@@ -1,0 +1,19 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : R1 HTML Share : Feedback due [DATE]
+【field:"Project Name" r2 editable】 : R2 HTML Share : Feedback due [DATE]
+
+Hello,
+
+Attached, please find R1 [OR R2] HTML ready for review. Please review and provide consolidated feedback by [TIME AND DATE].
+
+Preview Link(s) : 
+[ic PREVIEW LINKS]
+
+Callout(s) : 
+[LIST ANY CALLOUTS]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]
+
+Thanks,
+【field:"Your name" r2 editable】

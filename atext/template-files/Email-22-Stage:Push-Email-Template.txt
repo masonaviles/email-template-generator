@@ -1,0 +1,22 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Stage/Push
+
+Hello,
+
+【field:"Project Name" r2 editable】 is ready to stage/push. Approval Radar is now with you : 
+[APPROVAL RADAR LINK]
+
+Our merge window is today, [TIME WINDOW]. 
+
+【field:"Project Name" r2 editable】
+Producer(s): [NAME(S)]
+Dev: [NAME(S)]
+QA: [NAME(S)]
+RM: [NAME(S)]
+ic##
+Scheduled: [DATE] at [TIME WINDOW]
+Approval: [APPROVAL RADAR LINK] 
+VAT: [MASTER VAT RADAR LINK]
+
+Thanks,
+【field:"Your name" r2 editable】

@@ -1,0 +1,71 @@
+SUBJECT : 
+GEO HANDOFF : 【field:"Project Name" r2 editable】[NON-CONFIDENTIAL]
+
+GEO HANDOFF
+
+NON-CONFIDENTIAL 
+
+Hi Everyone,
+
+Below is the handoff for 【field:"Project Name" r2 editable】.
+
+HANDOFF RADARS: 
+ALAC — [LINK TO HANDOFF RADAR] - no longer needed, deselect when cloning radars; future state for ALAC & CA will be Interactive ALAC-CA | All
+ANZ — [LINK TO HANDOFF RADAR]
+CA —  [LINK TO HANDOFF RADAR]
+EMEIA — [LINK TO HANDOFF RADAR]
+GC — [LINK TO HANDOFF RADAR]
+IN — [LINK TO HANDOFF RADAR]
+JP — [LINK TO HANDOFF RADAR]
+KR — [LINK TO HANDOFF RADAR]
+ME — [LINK TO HANDOFF RADAR]
+SEA — [LINK TO HANDOFF RADAR]
+TR — [LINK TO HANDOFF RADAR]
+
+Please reach out with any questions. 
+
+===============
+Project Name: 【field:"Project Name" r2 editable】
+
+GEO Loc Requirements and timing: To go live [WITH US / AFTER US] on [DATE].
+**IMPORTANT: US MUST merge to Trunk and push live FIRST then GEOs to follow after.
+A follow up confirmation email will be sent as soon as we are live.
+
+Project Scope Preview:
+	• New Page Estimate: [NUMBER]
+	• Updated Page Estimate: [NUMBER]
+	• Words to Translate Estimate: [NUMBER]
+	• DM Estimate (New/Updated): N/A
+	• Content Estimates (Screens, other): [NUMBER]
+
+Project Overview / Summary: [PROJECT OVERVIEW]
+
+Schedule Details: 
+	• Copy Deck: [HANDOFF DATE]
+	• PDF: [HANDOFF DATE]
+	• GEOs localize copy: [DATE RANGE] 
+	• Go-Live: [DATE]
+
+Applicable GEOs:
+[LIST OF APPLICABLE GEOs]
+
+GEO Alts: 
+[LIST OF APPLICABLE GEOs]
+
+Radar Component: Interactive XX | [COMPONENT NAME]
+
+ic Server: ic##
+
+Project inventory: 
+Planet Sustain Link: [PLANET SUSTAIN LINK] 
+Planet Sustain Project Name: [PLANET SUSTAIN PROJECT NAME]
+
+Link to Preview Files: 
+	• Briefing Deck: [APPLE BOX LINK]
+
+Link to copy deck: [APPLE BOX LINK]
+Link to PSDs: [APPLE BOX LINK]
+
+
+Thanks,
+【field:"Your name" r2 editable】

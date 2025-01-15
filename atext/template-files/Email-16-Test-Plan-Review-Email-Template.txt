@@ -1,0 +1,60 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Test Plan 
+
+Hello,
+
+Approval is now with you to please review the QA Test Plan for 【field:"Project Name" r2 editable】. 
+
+Project details provided, below. Targeting QA kick-off on [DATE].
+
+Please let me know if you have any questions or need any additional info.  
+
+[APPROVAL RADAR LINK]
+
+Thanks,
+【field:"Your name" r2 editable】
+
+====================
+Project Overview: 
+[INSERT PROJECT OVERVIEW]
+
+Approval: 
+[APPROVAL RADAR LINK]
+
+Scope: 
+New ([NUMBER OF URLs to BUILD NEW])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Update ([NUMBER OF URLs to UPDATE])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW UPDATES]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION UPDATES]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Branch:
+ic [IC NUMBER]
+
+Component: 
+[RADAR COMPONENT]
+
+GEOs:
+[LIST GEOs GOING LIVE WITH US or US ONLY; GEO HANDOFF PL]
+
+Project Folders : 
+QUIP : [LINK]
+AppleBox : [LINK]
+Server : [LINK]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS QA IS RESPONSIBLE FOR]

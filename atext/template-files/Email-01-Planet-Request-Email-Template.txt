@@ -1,0 +1,21 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : PLANET Request
+
+Hello,
+
+Requesting a PLANET job for 【field:"Project Name" r2 editable】. 
+
+Project details provided, below.
+
+Please let me know if you have any questions or need any additional info.  
+
+【field:"Project Name" r2 editable】 : 【field:"Project Name" r2 editable】
+Kickoff Date : 【date:MM/dd/yyyy name:Kickoff editable】
+Launch Date : 【date:MM/dd/yyyy month:1 name:Launch editable】
+Lead Producer : 【field:"Your name" r2 editable】
+
+Project Description : 
+【field:Scope r2 type:1 editable】
+
+Thanks,
+【field:"Your name" r2 editable】

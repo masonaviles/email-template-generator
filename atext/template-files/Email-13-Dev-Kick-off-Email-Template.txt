@@ -1,0 +1,74 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Dev Kick-off
+
+Hello,
+
+Below, please find the project details for 【field:"Project Name" r2 editable】.  
+
+Build radar(s) have been assigned to [LEVEL DEV LEAD]. Targeting to have R1 HTML ready for review by [DATE]. 
+
+Please let me know if you have any questions or need any additional info.  
+
+Thanks,
+【field:"Your name" r2 editable】
+
+====================
+Project Overview: 
+[INSERT PROJECT OVERVIEW]
+
+Approval: 
+[APPROVAL RADAR LINK]
+
+Build Radar(s):
+[BUILD RADAR LINK]
+
+Scope: 
+New ([NUMBER OF URLs to BUILD NEW])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Update ([NUMBER OF URLs to UPDATE])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW UPDATES]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION UPDATES]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Branch:
+ic [IC NUMBER]
+
+Component: 
+[RADAR COMPONENT]
+
+GEOs:
+[LIST GEOs GOING LIVE WITH US or US ONLY; GEO HANDOFF PL]
+[revving /v/ or additive changes]
+
+Project Folders:
+Quip: [QUIP LINK]
+AppleBox: [APPLEBOX LINK]
+Server: [SERVER LINK]
+
+COMPs:
+[LINK TO COMPs]
+
+COPY DECK(s):
+[LINK TO COPY DECK(s)]
+
+PLANET : 
+[PLANET LINK]
+
+PID : 
+[PROJECT PID]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS DEV MANAGER IS RESPONSIBLE FOR]
