@@ -1,0 +1,23 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : LIVE
+
+Hello,
+
+【field:"Project Name" r2 editable】 is live — congrats!
+
+Please let me know if you have any questions or any additional PL needs.
+
+URL(s) : 
+[LIST OF PROJECT URL(S)]
+
+GEO Handoff : 
+[DATE]
+
+PL Updates : 
+[LIST ANY PL UPDATES]
+
+PL Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]
+
+Thanks,
+【field:"Your name" r2 editable】

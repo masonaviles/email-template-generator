@@ -1,0 +1,29 @@
+**IMPORTANT : If your project is confidential, consult with Marcom Managing Producer on how to handle informing GEOs, before sending any communications. 
+
+SUBJECT : 
+GEO PREVIEW : 【field:"Project Name" r2 editable】[CONFIDENTIAL]
+
+GEO PREVIEW
+
+CONFIDENTIAL
+
+Hi Everyone,
+
+This is a GEO Preview for 【field:"Project Name" r2 editable】.
+
+Please see project preview details, below. 
+
+Project Name: 【field:"Project Name" r2 editable】
+
+GEO Loc Requirements and timing: To go live [WITH US / AFTER US] on [DATE].
+**IMPORTANT: US MUST merge to Trunk and push live FIRST then GEOs to follow after.
+
+Project Scope Preview:
+	• New Page Estimate: [NUMBER]
+	• Updated Page Estimate: [NUMBER]
+	• Words to Translate Estimate: [NUMBER]
+	• DM Estimate (New/Updated): N/A
+	• Content Estimates (Screens, other): [NUMBER]
+
+Thanks,
+【field:"Your name" r2 editable】

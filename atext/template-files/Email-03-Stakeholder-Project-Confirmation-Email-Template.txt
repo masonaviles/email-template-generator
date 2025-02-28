@@ -1,0 +1,49 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Project Confirmation
+
+Hello,
+
+Confirming 【field:"Project Name" r2 editable】 has been scheduled and launch date [DATE] is secured. Below, please find the project details and the review schedule. 
+
+Please let me know if you have any questions or changes. Please note the review dates, feedback deadlines, and please also [send me a list / confirm the list] of reviewers that will require access. 
+
+Thanks,
+【field:"Your name" r2 editable】
+
+====================
+Project Name: 
+【field:"Project Name" r2 editable】
+
+List of Reviewers: [INSERT LIST OF REVIEWERS, IF YOU HAVE IT]
+ Project Overview: 
+[INSERT PROJECT OVERVIEW]
+
+Project Brief:
+[INSER PROJEC BRIEF/MARK UP]
+
+Scope: 
+New ([NUMBER OF URLs to BUILD NEW])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Update ([NUMBER OF URLs to UPDATE])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW UPDATES]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION UPDATES]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+GEOs:
+[LIST GEOs GOING LIVE WITH US or US ONLY; GEO HANDOFF PL]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]

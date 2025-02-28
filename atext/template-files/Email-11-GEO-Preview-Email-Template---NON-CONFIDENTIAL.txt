@@ -1,0 +1,50 @@
+SUBJECT : 
+GEO PREVIEW : 【field:"Project Name" r2 editable】[NON-CONFIDENTIAL]
+
+GEO PREVIEW
+
+NON-CONFIDENTIAL 
+
+Hi Everyone,
+
+This is a GEO Preview for 【field:"Project Name" r2 editable】.
+
+Please see project preview details, below. 
+
+Project Name: 【field:"Project Name" r2 editable】
+
+GEO Loc Requirements and timing: To go live [WITH US / AFTER US] on [DATE].
+**IMPORTANT: US MUST merge to Trunk and push live FIRST then GEOs to follow after.
+
+Project Scope Preview:
+	• New Page Estimate: [NUMBER]
+	• Updated Page Estimate: [NUMBER]
+	• Words to Translate Estimate: [NUMBER]
+	• DM Estimate (New/Updated): N/A
+	• Content Estimates (Screens, other): [NUMBER]
+
+Project Overview / Summary: [PROJECT OVERVIEW]
+
+Schedule Details: 
+	• Copy Deck: [HANDOFF DATE OR BOX LINK]
+	• PDF: [HANDOFF DATE OR BOX LINK]
+	• GEOs localize copy: [DATE RANGE] 
+	• Go-Live: [DATE]
+
+Applicable GEOs:
+[LIST OF APPLICABLE GEOs]
+
+Link to Preview Files: 
+	• Briefing Deck: [APPLE BOX LINK]
+
+Radar Component: Interactive XX | [COMPONENT NAME]
+
+ic Server: ic##
+
+Project inventory: 
+Planet Sustain Link: [PLANET SUSTAIN LINK] 
+Planet Sustain Project Name: [PLANET SUSTAIN PROJECT NAME]
+
+
+Thanks,
+【field:"Your name" r2 editable】

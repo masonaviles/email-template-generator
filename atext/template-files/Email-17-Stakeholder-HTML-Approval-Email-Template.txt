@@ -1,0 +1,19 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : HTML Approval : Approval due [DATE]
+
+Hello,
+
+Below, please find Final HTML ready for approval. Please review and provide approval by [TIME AND DATE].
+
+Preview Link(s) : 
+[ic PREVIEW LINKS]
+
+Callout(s) : 
+[LIST ANY CALLOUTS]
+**NOTE : Any feedback/changes received after QA Kick-off will be deferred to Post-Launch (PL) or Web Edit, unless deemed P1.
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]
+
+Thanks,
+【field:"Your name" r2 editable】

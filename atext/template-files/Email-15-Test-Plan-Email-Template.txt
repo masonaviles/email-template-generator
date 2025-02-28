@@ -1,0 +1,65 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Test Plan Request
+
+Hello,
+
+Below, please find the project details for 【field:"Project Name" r2 editable】 for the test plan.  
+
+Targeting to have this over to [MARCOM QA LEAD] for review by [DATE]. 
+
+Please let me know if you have any questions or need any additional info.  
+
+Thanks,
+【field:"Your name" r2 editable】
+
+====================
+Project Overview: 
+[INSERT PROJECT OVERVIEW]
+
+Approval: 
+[APPROVAL RADAR LINK]
+
+Scope: 
+New ([NUMBER OF URLs to BUILD NEW])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Update ([NUMBER OF URLs to UPDATE])
+https://www.apple.com/xx
+	1.  Fluid
+	2.  Accessibility 
+	3.  Analytics
+	4. Screens/HW : [NUMBER OF SCREEN/HW UPDATES]
+	5. Videos/Animations : [NUMBER OF VIDEO/ANIMATION UPDATES]
+	6.  Updates : 
+		1. [INSERT UPDATES]
+
+Branch:
+ic [IC NUMBER]
+
+Component: 
+[RADAR COMPONENT]
+
+GEOs:
+[LIST GEOs GOING LIVE WITH US or US ONLY; GEO HANDOFF PL]
+[revving /v/ or additive changes]
+
+Project Folders:
+Quip: [QUIP LINK]
+AppleBox: [APPLEBOX LINK]
+Server: [SERVER LINK]
+
+Marcom QA Lead:
+[NAME]
+
+PID : 
+[PROJECT PID]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS QA IS RESPONSIBLE FOR]

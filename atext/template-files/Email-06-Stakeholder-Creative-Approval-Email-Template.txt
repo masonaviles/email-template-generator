@@ -1,0 +1,18 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Creative Approval : Approval due [DATE]
+
+Hello,
+
+Attached, please find Final Creative ready for approval. Please review and provide approval by [TIME AND DATE].
+
+Final Creative : 
+[PDF or APPLE BOX LINK TO CREATIVE]
+
+Callout(s) : 
+[LIST ANY CALLOUTS / CREATIVE NOTES]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]
+
+Thanks,
+【field:"Your name" r2 editable】

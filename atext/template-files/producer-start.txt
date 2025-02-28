@@ -1,0 +1,30 @@
+<body><footer>
+<h2>What is your full name?</h2>
+<p>【field:"Your name" r2 editable】</p>
+
+<h2>What is the email of your Managing Producer?</h2>
+【field:"Managing Producer Email" r2 editable】
+
+<h2>What is the name of the project?</h2>
+【field:"Project Name" r2 editable】
+
+<h2>What is your expected kickoff date?</h2>
+【date:MM/dd/yyyy name:Kickoff editable】
+
+<h2>What is your expected launch date?</h2>
+【date:MM/dd/yyyy month:1 name:Launch editable】
+
+<h2>What is the project description/scope?</h2>
+(For multiline descriptions, please copy and paste %0A at the end of each line)
+【field:Scope r2 type:1 value:%0A editable】
+
+</footer>
+<main>
+<ul>
+<li>【snippet:Email-1-Request-Planet-Project uuid:97DC057D-815B-49D4-BA50-5A2186675D9B】</li>
+<li>【snippet:Email-2-Resource-Request uuid:31187BC3-17E6-43CA-B26F-C87BB4A2C21C】</li>
+<li>【snippet:Email-3-Stakeholder-Project-Confirmation uuid:13F540CA-4698-4C78-BE85-080C8019D77A】</li>
+</ul>
+</main>
+</body>
+【snippet:producer-styles uuid:6CF1218E-5E57-4EC4-8402-FADEA74A2AAC】

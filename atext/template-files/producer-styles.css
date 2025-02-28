@@ -1,0 +1,21 @@
+<style>
+body {
+	display: grid;
+	grid-template:
+		"m"
+		"f";
+	grid-gap: 5px;
+	font-family: system-ui, -apple-system;
+    font-weight: 500;
+    background: gray;
+}
+footer {
+	grid-area: "f";
+	background: lightgray;
+}
+main {
+	grid-area: "m";
+	background: lightgray;
+}
+
+</style>

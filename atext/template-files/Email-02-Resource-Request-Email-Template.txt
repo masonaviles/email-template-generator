@@ -1,0 +1,25 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : Resource Request
+
+Hello,
+
+Requesting resources for 【field:"Project Name" r2 editable】. 
+
+Resource allocations have been updated in PLANET, and project details provided, below.
+
+Please let me know if you have any questions or need any additional info.  
+
+PLANET : [PLANET LINK]
+【field:"Project Name" r2 editable】 : 【field:"Project Name" r2 editable】
+Kickoff Date : 【date:MM/dd/yyyy name:Kickoff editable】
+Launch Date : 【date:MM/dd/yyyy month:1 name:Launch editable】
+Lead Producer : 【field:"Your name" r2 editable】
+
+Project Description : 
+【field:Scope r2 type:1 editable】
+
+Schedule : 
+[PROJECT MILESTONE SCHEDULE]
+
+Thanks,
+【field:"Your name" r2 editable】

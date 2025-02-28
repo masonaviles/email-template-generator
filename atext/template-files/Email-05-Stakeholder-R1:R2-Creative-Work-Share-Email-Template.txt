@@ -1,0 +1,46 @@
+SUBJECT : 
+【field:"Project Name" r2 editable】 : R1 Creative Work Share: Feedback due [DATE]
+【field:"Project Name" r2 editable】 : R2 Creative Work Share : Feedback due [DATE]
+
+Meeting R1/R2 Creative Work Share
+==========
+Hello,
+
+In advance of our R1 [OR R2] Creative Work Share meeting, attached, please find R1 Creative ready for review. Please review and provide consolidated feedback by [TIME AND DATE].
+
+R1 [OR R2] Creative : 
+[APPLE BOX LINK TO CREATIVE]
+
+Callout(s) : 
+[LIST ANY CALLOUTS / CREATIVE NOTES]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]
+
+Thanks,
+【field:"Your name" r2 editable】
+
+
+
+
+SUBJECT : 
+【field:"Project Name" r2 editable】 : R1 Creative Work Share : Feedback due [DATE]
+【field:"Project Name" r2 editable】 : R2 Creative Work Share : Feedback due [DATE]
+
+Email R1/R2 Creative Work Share
+==========
+Hello,
+
+Attached, please find R1 [OR R2] Creative ready for review. Please review and provide consolidated feedback by [TIME AND DATE].
+
+R1 [OR R2] Creative : 
+[APPLE BOX LINK TO CREATIVE]
+
+Callout(s) : 
+[LIST ANY CALLOUTS / CREATIVE NOTES]
+
+Schedule : 
+[MILESTONE SCHEDULE; BOLD ITEMS STAKEHOLDER IS RESPONSIBLE FOR]
+
+Thanks,
+【field:"Your name" r2 editable】
